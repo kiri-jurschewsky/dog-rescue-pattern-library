@@ -1,0 +1,38 @@
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.card-content {
+  position: absolute;
+  bottom: 10%;
+  left: 0;
+  width: 100%;
+}
+
+.card {
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+  width: 100%;
+
+  border: 2px solid var(--color-primary);
+  border-radius: 4px;
+  background-color: #f7f7f7;
+}
+
+img:hover {
+  border: 2px solid var(--color-primary);
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+.info-card {
+  max-width: 20em;
+  transition: all 5s linear;
+}
+
+.info-card:hover {
+  border-radius: 4500px;
+  background-color: var(--color-primary);
+}

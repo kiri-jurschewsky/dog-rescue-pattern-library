@@ -1,0 +1,44 @@
+html {
+  font-family: var(--font-primary);
+}
+
+h1 {
+  color: var(--color-secondary);
+}
+
+a {
+  color: var(--color-neutral-beige);
+}
+
+a:hover {
+  color: #fff;
+}
+
+.nav a {
+  display: inline-block;
+  padding: 1rem;
+  text-decoration: none;
+}
+
+.nav {
+  position: relative;
+  background-color: var(--color-primary-light);
+}
+
+.masthead {
+  background-color: var(--color-primary);
+}
+
+.banner {
+  position: relative;
+  max-height: 24em;
+  overflow: hidden;
+  color: #fff;
+}
+
+.banner-content {
+  position: absolute;
+  bottom: 65%;
+  left: 0;
+  width: 100%;
+}

@@ -1,0 +1,151 @@
+.btn {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: var(--color-secondary);
+  border-color: var(--color-primary);
+
+  color: var(--color-neutral-beige);
+}
+
+.btn-light {
+  background-color: var(--color-primary-light);
+  border-color: var(--color-primary-light);
+
+  color: #fff;
+}
+
+.btn-light:hover {
+  background-color: var(--color-secondary);
+  border-color: var(--color-primary-light);
+
+  color: var(--color-neutral-beige);
+}
+
+.btn-ghost {
+  background-color: transparent;
+  border-color: var(--color-primary);
+
+  color: var(--color-primary);
+}
+
+.btn-ghost:hover {
+  background-color: transparent;
+  border-color: var(--color-secondary);
+
+  color: var(--color-neutral-beige);
+}
+
+.btn-ghost-cercle {
+  background-color: transparent;
+  border-color: var(--color-primary);
+
+  color: var(--color-primary);
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-cercle:hover {
+  background-color: transparent;
+  border-color: var(--color-secondary);
+
+  color: var(--color-neutral-beige);
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-f {
+  background-color: #415ea1;
+  border-color: #fff;
+
+  color: #fff;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-f:hover {
+  background-color: transparent;
+  border-color: #415ea1;
+
+  color: #415ea1;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-t {
+  background-color: #00aaeb;
+  border-color: #fff;
+
+  color: #fff;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-t:hover {
+  background-color: transparent;
+  border-color: #00aaeb;
+
+  color: #00aaeb;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-i {
+  background-color: #245a84;
+  border-color: #fff;
+
+  color: #fff;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-i:hover {
+  background-color: transparent;
+  border-color: #245a84;
+
+  color: #245a84;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-s {
+  background-color: #fee600;
+  border-color: #fff;
+
+  color: #fff;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
+.btn-ghost-media-s:hover {
+  background-color: transparent;
+  border-color: #fee600;
+
+  color: #fee600;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+
+}
